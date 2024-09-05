@@ -1,0 +1,6 @@
+[submodule "next-food"]
+	path = next-food
+	url = https://github.com/hoagbaodinh/next-food
+[submodule "nest-food"]
+	path = nest-food
+	url = https://github.com/hoagbaodinh/nest-food
